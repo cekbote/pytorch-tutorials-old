@@ -1,1 +1,1 @@
-# pytorch-tutorials
+# PyTorch Tutorials
